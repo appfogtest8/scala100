@@ -1,3 +1,5 @@
+// built with scala 2.10.3
+
 var x = readLine("? ").toLowerCase.toList.toSeq
 
 var vowels = "aeiou".toList.toSeq
